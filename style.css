@@ -1,0 +1,13 @@
+/* Create three equal columns that floats next to each other */
+.bg {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    height: 300px; 
+    z-index: 0;
+}
+
+#btn_history {
+    background-image: "https://www.w3schools.com/w3css/img_lights.jpg"
+}
+
