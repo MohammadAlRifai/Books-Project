@@ -1,13 +1,38 @@
-/* Create three equal columns that floats next to each other */
-.bg {
-    float: left;
-    width: 100%;
+body {
+	background-image: url("http://www.brickrow.com/images/upload/carousel_4_1.jpg");
+}
+.center {
+    margin: auto;
+    width: 60%;
+    
     padding: 10px;
-    height: 300px; 
-    z-index: 0;
+    text-align: center;
+
 }
 
-#btn_history {
-    background-image: "https://www.w3schools.com/w3css/img_lights.jpg"
+#form-search{
+	width: 450px;
+	line-height: 12px;
+	padding: 10px 10px;
 }
 
+#btn{
+	width: 300px;
+	line-height: 20px;
+	padding: 20px 10px;
+}
+
+#description{
+	
+}
+
+p 
+{
+   text-align: center;
+   font-family: verdana;
+    font-size: 20px;
+}
+
+#bookCover {
+ width: 60%;
+  }
