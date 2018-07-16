@@ -2,7 +2,7 @@
 
 ## Description:
 
-> It helps you to find the books that really matter on your favorite books class.
+> It helps you to find the books that really matter from your favorite books class.
 
 ## Team:
 
@@ -22,6 +22,6 @@
 
 Development of this app started on Feb 28, 2018 and the finished on Mar 1, 2018.
 
-###### Running App:
+## Running App:
 
-Clone the repo or download it and open it in the browser.
+Clone the repo or download it and open Books-Project.html file in the browser.
