@@ -1,38 +1,35 @@
 body {
-	background-image: url("http://www.brickrow.com/images/upload/carousel_4_1.jpg");
+	background-image: url('http://www.brickrow.com/images/upload/carousel_4_1.jpg');
 }
 .center {
-    margin: auto;
-    width: 60%;
-    
-    padding: 10px;
-    text-align: center;
+	margin: auto;
+	width: 60%;
 
+	padding: 10px;
+	text-align: center;
 }
 
-#form-search{
+#form-search {
 	width: 450px;
 	line-height: 12px;
 	padding: 10px 10px;
 }
 
-#btn{
+#btn {
 	width: 300px;
 	line-height: 20px;
 	padding: 20px 10px;
 }
 
-#description{
-	
+#description {
 }
 
-p 
-{
-   text-align: center;
-   font-family: verdana;
-    font-size: 20px;
+p {
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
 }
 
 #bookCover {
- width: 60%;
-  }
+	width: 60%;
+}
